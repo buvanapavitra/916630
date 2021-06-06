@@ -1,2 +1,1 @@
-# SpringREST
-894380 - REST Handson Stage3
+# Spring - REST Handson Stage3
