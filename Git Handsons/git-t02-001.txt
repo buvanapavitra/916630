@@ -28,10 +28,10 @@ drwxr-xr-x 1 DELL 197121  0 Jun 05 12:56 .git/
 
 
 
-Pavithra@DESKTOP-C1CIECB MINGW64 /d/cts/code/git_handson (master)
+Pavithra@DESKTOP-C1CIECB MINGW64 /d/cts/code/git_handson(master)
 $ echo "Welcome to the version control" >> welcome.txt
 
-Pavithra@DESKTOP-C1CIECB MINGW64 /d/cts/code/git_handson (master)
+Pavithra@DESKTOP-C1CIECB MINGW64 /d/cts/code/git_handson(master)
 $ ls -al
 total 9
 drwxr-xr-x 1 DELL 197121  0 Apr 18 12:57 ./
